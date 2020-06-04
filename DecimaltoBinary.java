@@ -1,7 +1,7 @@
 package BinaryConverter;
 import java.util.Scanner;
 
-public class BinarytoDecimal {
+public class DecimaltoBinary {
 
 	public static void main(String[] args) {
 		//This is the code for binary to decimal converter
